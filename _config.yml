@@ -1,5 +1,5 @@
 title:            YiJia Labs
-description:      "Development blog and website for Chunlan Peng."
+description:      "Development blog and DBS research."
 logo:             logo.png
 # disqus_shortname: ""
 share:            false
@@ -11,7 +11,7 @@ url:              ""
 
 # Owner/author information
 owner:
-  name:           Chunlan Peng
+  name:           YiJia Labs
   description:    ""
   # Social networking links used in footer. Update and remove as you like.
   github:         yijialabs
