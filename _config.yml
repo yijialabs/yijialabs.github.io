@@ -14,7 +14,7 @@ owner:
   name:           YiJia Labs
   description:    ""
   # Social networking links used in footer. Update and remove as you like.
-  github:         yijialabs
+  # github:         yijialabs
 
 # Analytics and webmaster tools stuff goes here
 # google_analytics:
