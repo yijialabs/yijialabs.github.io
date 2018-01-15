@@ -3,11 +3,10 @@ layout: page
 permalink: /about/index.html
 title: About Us
 tags: [ ]
-imagefeature: about-us--imagefeature.jpg
 chart: true
 ---
 
-![](/images/about-us--imagefeature.jpg)
+<img src="/images/about-us--imagefeature.png" width="683" height="384"/>
 
 Experimentation, analysis, study, and play&hellip;here at YiJia Labs, we are
 developing a brand new *knowledge database system* to capture the instant
